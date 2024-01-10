@@ -8,7 +8,7 @@
 
 - 🌱 I’m currently learning **ChatGPT**
 
-- 💬 Ask me about **JavaScript, ReactJs, Angular, NodeJs, MongoDM**
+- 💬 Ask me about **JavaScript, ReactJs, Angular, NodeJs, MongoDB**
 
 - 📫 How to reach me **kousik.manna@outlook.com**
 
