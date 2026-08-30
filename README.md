@@ -1,4 +1,3 @@
-![MasterHead](https://capsule-render.vercel.app/api?type=waving&color=timeGradient&height=250&section=header&text=Kousik%20Manna&fontSize=70)
 <h1 align="center">Hi 👋, I'm Kousik Manna</h1>
 <h3 align="center">A passionate FullStack developer from India</h3>
 
