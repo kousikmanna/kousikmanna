@@ -1,4 +1,4 @@
-[![MasterHead](https://media.licdn.com/dms/image/C4D16AQH8G7qEo7aEIw/profile-displaybackgroundimage-shrink_350_1400/0/1653573763312?e=1690416000&v=beta&t=5lrdE_ZWGPxQk6r0d5ZTKcHSTj6iQSiKJF-4jLdP_kk)]
+[![MasterHead](https://capsule-render.vercel.app/api?type=waving&color=timeGradient&height=250&section=header&text=Kousik%20Manna&fontSize=70)]
 <h1 align="center">Hi 👋, I'm Kousik Manna</h1>
 <h3 align="center">A passionate FullStack developer from India</h3>
 
